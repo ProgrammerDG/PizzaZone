@@ -1,0 +1,7 @@
+.carousel .carousel-item {
+  height: 80vh;
+}
+
+.col:hover{
+  transform: scale(1.1);
+}
